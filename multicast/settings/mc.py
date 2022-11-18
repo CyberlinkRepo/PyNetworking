@@ -6,6 +6,6 @@ MCSERVER = {
 
 MCCLIENT = {
     "MCAST_GROUP": '239.1.1.1',
-    "IP_ADDRESS": '192.168.5.230',
+    "IP_ADDRESS": '192.168.3.22',
     "PORT": 5001
 }
